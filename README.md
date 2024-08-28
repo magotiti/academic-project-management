@@ -1,0 +1,1 @@
+This project is a concept of using Java to develop a practical solution with low computational cost for an academic purpose. Its construction consists of using the Java programming language from the implementation of the methods to its interface via Java Swing. The main idea of ​​this project is to explore the language's resources in different areas of programming.
